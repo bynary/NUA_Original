@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaicallchat.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\nua_ori\\intermediate\\build\\win64\\x64\\nua_originaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\openaiapi\\definitions.openaiapi.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaicallchat.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaidefinitions.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\uht\\openaidefinitions.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\uht\\openaicallchat.generated.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiutils.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\uht\\openaiutils.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\http.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiparser.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

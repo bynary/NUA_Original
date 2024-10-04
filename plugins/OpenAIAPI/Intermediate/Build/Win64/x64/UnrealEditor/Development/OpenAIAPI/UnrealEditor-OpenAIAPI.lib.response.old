@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OpenAIAPI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\NUA_Ori\NUA_Ori\Intermediate\Build\Win64\x64\NUA_OriginalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\NUA_Ori\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.obj"
+"D:\NUA_Ori\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Default.rc2.res"
+/OUT:"D:\NUA_Ori\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\UnrealEditor-OpenAIAPI.lib"

@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaiparser.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\nua_ori\\intermediate\\build\\win64\\x64\\nua_originaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\openaiapi\\definitions.openaiapi.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiparser.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaidefinitions.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\uht\\openaidefinitions.generated.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiutils.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\uht\\openaiutils.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

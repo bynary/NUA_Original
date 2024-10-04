@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\nua_ori\\plugins\\bsdg_demo\\bsdg_demo\\source\\bsdg_demo\\private\\bsdg_demo.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\nua_ori\\intermediate\\build\\win64\\x64\\nua_originaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\nua_ori\\plugins\\bsdg_demo\\bsdg_demo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bsdg_demo\\definitions.bsdg_demo.h",
+            "d:\\nua_ori\\plugins\\bsdg_demo\\bsdg_demo\\source\\bsdg_demo\\public\\bsdg_demo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
