@@ -7,14 +7,6 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\NUA_Ori\Intermediate\Build\Win64\x64\NUA_OriginalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAIAPI.cpp.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAICallChat.cpp.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAICallCompletions.cpp.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAICallDALLE.cpp.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAICallTranscriptions.cpp.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAIDefinitions.cpp.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAIParser.cpp.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAIUtils.cpp.obj"
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Default.rc2.res"
-/OUT:"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\UnrealEditor-OpenAIAPI.lib"
+"D:\NUA_Ori\plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.obj"
+"D:\NUA_Ori\plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Default.rc2.res"
+/OUT:"D:\NUA_Ori\plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\UnrealEditor-OpenAIAPI.lib"

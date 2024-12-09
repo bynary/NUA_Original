@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"GaeaUEToolsEditor": "UnrealEditor-GaeaUEToolsEditor.dll",
+		"GaeaUnrealTools": "UnrealEditor-GaeaUnrealTools.dll"
+	}
+}

@@ -29,7 +29,22 @@
             "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\uht\\openaidefinitions.gen.cpp",
             "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\uht\\openaiutils.gen.cpp",
             "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiutils.h",
-            "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\uht\\openaiutils.generated.h"
+            "d:\\nua_ori\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\uht\\openaiutils.generated.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaiapi.cpp",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiapi.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaicallchat.cpp",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\http.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiparser.h",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaicallcompletions.cpp",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaicalldalle.cpp",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaicalltranscriptions.cpp",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaidefinitions.cpp",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaiparser.cpp",
+            "d:\\nua_ori\\plugins\\openaiapi\\source\\openaiapi\\private\\openaiutils.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

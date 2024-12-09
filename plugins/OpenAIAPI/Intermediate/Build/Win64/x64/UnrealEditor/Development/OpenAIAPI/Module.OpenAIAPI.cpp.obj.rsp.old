@@ -1,11 +1,11 @@
-"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp"
+"D:\NUA_Ori\plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp"
 /FI"D:\NUA_Ori\Intermediate\Build\Win64\x64\NUA_OriginalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Definitions.OpenAIAPI.h"
+/FI"D:\NUA_Ori\plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Definitions.OpenAIAPI.h"
 /Yu"D:\NUA_Ori\Intermediate\Build\Win64\x64\NUA_OriginalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
 /Fp"D:\NUA_Ori\Intermediate\Build\Win64\x64\NUA_OriginalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.obj"
-/sourceDependencies "D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.dep.json"
-@"D:\NUA_Ori\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAIAPI.Shared.rsp"
+/Fo"D:\NUA_Ori\plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.obj"
+/sourceDependencies "D:\NUA_Ori\plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.dep.json"
+@"D:\NUA_Ori\plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\OpenAIAPI.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
